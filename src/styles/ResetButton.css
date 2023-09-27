@@ -1,0 +1,15 @@
+/* ResetButton.css */
+
+.ResetButton {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .ResetButton:hover {
+    background-color: #c82333;
+  }
+  

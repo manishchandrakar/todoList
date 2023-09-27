@@ -1,0 +1,24 @@
+/* TodoItem.css */
+
+.TodoItem {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .TodoItem.completed {
+    background-color: #d3d3d3;
+  }
+  
+  .TodoItem:hover {
+    background-color: #f5f5f5;
+  }
+  
