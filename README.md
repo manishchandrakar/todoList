@@ -1,4 +1,4 @@
-To use the provided code for your React TODO app and create a README.md file, follow these steps:
+
 
 1. **Create the Project**:
 
